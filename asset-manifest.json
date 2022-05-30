@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2fa6f9d6.css",
+    "main.js": "/static/js/main.014b4fc4.js",
+    "static/media/Casino.mp3": "/static/media/Casino.d1b4063b2a4e6c2ef230.mp3",
+    "static/media/sphlash_screen.png": "/static/media/sphlash_screen.ab5d5336fb688f5dd541.png",
+    "static/media/casino3.png": "/static/media/casino3.28ec5368fb0d9de4d627.png",
+    "static/media/playfair_display_bold.ttf": "/static/media/playfair_display_bold.bee1b9052d7be99ad133.ttf",
+    "static/media/playfair_display_regular.ttf": "/static/media/playfair_display_regular.52a9efbc55a917b4c578.ttf",
+    "static/media/backround1.png": "/static/media/backround1.dc27ea4bad7814330c84.png",
+    "static/media/click_sound.wav": "/static/media/click_sound.0ff4ea852b22ca6a0714.wav",
+    "static/media/game_font.ttf": "/static/media/game_font.0b7a476cf92ccfa40ab4.ttf",
+    "static/media/bg_hu.png": "/static/media/bg_hu.bb06059c4bf94ceadbe8.png",
+    "static/media/gear11_edit.png": "/static/media/gear11_edit.52989cf369754c082bd4.png",
+    "static/media/winner11.png": "/static/media/winner11.82be584979a55474b6b4.png",
+    "static/media/vin_gold_0.png": "/static/media/vin_gold_0.cab580753f7a11de8e29.png",
+    "index.html": "/index.html",
+    "main.2fa6f9d6.css.map": "/static/css/main.2fa6f9d6.css.map",
+    "main.014b4fc4.js.map": "/static/js/main.014b4fc4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fa6f9d6.css",
+    "static/js/main.014b4fc4.js"
+  ]
+}
